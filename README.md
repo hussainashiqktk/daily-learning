@@ -45,7 +45,7 @@ The following command will get you the public IP address of your computer:
 nslookup myip.opendns.com resolver1.opendns.com
 
 ```
-![nslookup](/assets/cmdPublicIP.jpg)
+![nslookup](/assets/imgs/nslookup-external-ip-address.jpg)
 
 ---
 
