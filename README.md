@@ -33,5 +33,19 @@ I'm a Software Engineer by trainnig, interested specifically in Cybersecurity. I
     * [Sample](link)
 ## 🧠 What Did I Learn Today? ✨
 
-### How to find your public IP address using command line?
+### How to find your public IP address using command line? [link](https://www.itechtics.com/how-to-check-public-ip-address-using-command-line-in-windows-10/) | [PDF](assets/cmdFindIP.pdf)
+
+You can get public IP information using the command nslookup and the OpenDNS service. Just run the following command on your command prompt and you will get your external IP address.
+
+The following command will get you the public IP address of your computer:
+
+
+```bat
+
+nslookup myip.opendns.com resolver1.opendns.com
+
+```
+![nslookup](/assets/cmdPublicIP.jpg)
+
+---
 
