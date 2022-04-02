@@ -30,7 +30,7 @@ I'm a Software Engineer by trainnig, interested specifically in Cybersecurity. I
     * [How to organize knowlegde?](link)
 
 - ### [01-April-2022]()
-    * [Sample](link)
+    * [Problem-Solving Skills: Definitions and Examples](https://www.indeed.com/career-advice/resumes-cover-letters/problem-solving-skills)
     
 ## 🧠 What Did I Learn Today? ✨
 
