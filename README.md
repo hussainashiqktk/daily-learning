@@ -26,11 +26,12 @@ I'm a Software Engineer by trainnig, interested specifically in Cybersecurity. I
 ## 📑 Table of Contents 📋
 
 - ### [31-March-2022]()
-    * [Finding your public IP using commad line?](###how-to-find-your-public-ip-address-using-command-line-?)
+    * [Finding your public IP using commad line?](#how-to-find-your-public-ip-address-using-command-line?)
     * [How to organize knowlegde?](link)
 
 - ### [01-April-2022]()
     * [Sample](link)
+    
 ## 🧠 What Did I Learn Today? ✨
 
 ### How to find your public IP address using command line? [link](https://www.itechtics.com/how-to-check-public-ip-address-using-command-line-in-windows-10/) | [PDF](assets/pdfs/cmdFindIP.pdf)
