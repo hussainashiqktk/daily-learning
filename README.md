@@ -29,9 +29,14 @@ I'm a Software Engineer by trainnig, interested specifically in Cybersecurity. I
     * [Finding your public IP using commad line?](#how-to-find-your-public-ip-address-using-command-line?)
     * [How to organize knowlegde?](link)
 
-- ### [01-April-2022]()
+- ### [01-April-2022](#01-april-2022)
     * [Problem-Solving Skills: Definitions and Examples](https://www.indeed.com/career-advice/resumes-cover-letters/problem-solving-skills)
     
+- ### [03-April-2022](#03-april-2022)
+    * [125 Common Interview Questions and Answers (With Tips)](https://www.indeed.com/career-advice/interviewing/top-interview-questions-and-answers)
+
+
+---
 ## 🧠 What Did I Learn Today? ✨
 
 ### How to find your public IP address using command line?
