@@ -16,7 +16,7 @@ I'm a Software Engineer by trainnig, interested specifically in Cybersecurity. I
 #### Contributions are always welcome!
 1. Fork the repository
 2. In the README file, insert with appropriate heading on **what you learnt** under the heading of the right date.
-3. Give description. Make sure to include screenshots and links to external websites if possible.
+3. Give description. Make sure to include screenshots and links to external websites if possible. Upload files in assests directory and link them to links.
 4. Make a pull request.
 
 #### Feel free to give any suggestions by creating issue on issue tab.
@@ -25,11 +25,11 @@ I'm a Software Engineer by trainnig, interested specifically in Cybersecurity. I
 
 ## 📑 Table of Contents 📋
 
-- ### [31-March-2022](#31-march.)
-    * [Finding your public IP using commad line?](link)
+- ### [31-March-2022]()
+    * [Finding your public IP using commad line?](###how-to-find-your-public-ip-address-using-command-line-?)
     * [How to organize knowlegde?](link)
 
-- ### [01-April-2022](#31-march.)
+- ### [01-April-2022]()
     * [Sample](link)
 ## 🧠 What Did I Learn Today? ✨
 
