@@ -34,6 +34,7 @@ I'm a Software Engineer by trainnig, interested specifically in Cybersecurity. I
     
 - ### [03-April-2022](#03-april-2022)
     * [125 Common Interview Questions and Answers (With Tips)](https://www.indeed.com/career-advice/interviewing/top-interview-questions-and-answers)
+    * [Budgeting for Beginners - How to Make a Budget From Scratch 2021](https://www.youtube.com/watch?v=7lHNMGoACdQ)
 
 
 ---
