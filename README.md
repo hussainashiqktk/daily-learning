@@ -36,7 +36,7 @@ I'm a Software Engineer by trainnig, interested specifically in Cybersecurity. I
     * [125 Common Interview Questions and Answers (With Tips)](https://www.indeed.com/career-advice/interviewing/top-interview-questions-and-answers)
     * [Budgeting for Beginners - How to Make a Budget From Scratch 2021](https://www.youtube.com/watch?v=7lHNMGoACdQ)
     * [10 Ways To Improve Your Analytical Skills](https://www.indeed.com/career-advice/career-development/improve-analytical-skills)
-
+    * [Grid Computing](https://hazelcast.com/glossary/grid-computing/#:~:text=Grid%20computing%20is%20the%20practice,each%20other%20to%20coordinate%20jobs.)
 
 ---
 ## 🧠 What Did I Learn Today? ✨
