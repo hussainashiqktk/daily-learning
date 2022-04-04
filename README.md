@@ -38,6 +38,9 @@ I'm a Software Engineer by trainnig, interested specifically in Cybersecurity. I
     * [10 Ways To Improve Your Analytical Skills](https://www.indeed.com/career-advice/career-development/improve-analytical-skills)
     * [Grid Computing](https://hazelcast.com/glossary/grid-computing/#:~:text=Grid%20computing%20is%20the%20practice,each%20other%20to%20coordinate%20jobs.)
 
+- ### [04-April-2022]()
+   * [Bandwidth and related terms](https://www.verizon.com/info/definitions/bandwidth/#:~:text=The%20maximum%20amount%20of%20data,Modal)
+
 ---
 ## 🧠 What Did I Learn Today? ✨
 
