@@ -42,7 +42,7 @@ I'm a Software Engineer by trainnig, interested specifically in Cybersecurity. I
    * [Bandwidth and related terms](https://www.verizon.com/info/definitions/bandwidth/#:~:text=The%20maximum%20amount%20of%20data,Modal)
 
 - ### 05-April-2022
-   * [Forward vs Preface](#forward-vs-face)
+   * [Forward vs Preface](#forward-vs-preface)
    * 
 ---
 ## 🧠 What Did I Learn Today? ✨
