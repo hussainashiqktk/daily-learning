@@ -67,3 +67,6 @@ nslookup myip.opendns.com resolver1.opendns.com
 
 ### Forward vs Preface
 [link]((http://www.differencebetween.net/language/difference-between-foreword-and-preface/))
+![Forward vs Preface](/assets/imgs/Foreword-vs-Preface.jpg)
+
+---
