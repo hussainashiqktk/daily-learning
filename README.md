@@ -25,22 +25,25 @@ I'm a Software Engineer by trainnig, interested specifically in Cybersecurity. I
 
 ## 📑 Table of Contents 📋
 
-- ### [31-March-2022]()
+- ### 31-March-2022
     * [Finding your public IP using commad line?](#how-to-find-your-public-ip-address-using-command-line?)
     * [How to organize knowlegde?](link)
 
-- ### [01-April-2022](#01-april-2022)
+- ### 1-April-2022
     * [Problem-Solving Skills: Definitions and Examples](https://www.indeed.com/career-advice/resumes-cover-letters/problem-solving-skills)
     
-- ### [03-April-2022](#03-april-2022)
+- ### 03-April-2022
     * [125 Common Interview Questions and Answers (With Tips)](https://www.indeed.com/career-advice/interviewing/top-interview-questions-and-answers)
     * [Budgeting for Beginners - How to Make a Budget From Scratch 2021](https://www.youtube.com/watch?v=7lHNMGoACdQ)
     * [10 Ways To Improve Your Analytical Skills](https://www.indeed.com/career-advice/career-development/improve-analytical-skills)
     * [Grid Computing](https://hazelcast.com/glossary/grid-computing/#:~:text=Grid%20computing%20is%20the%20practice,each%20other%20to%20coordinate%20jobs.)
 
-- ### [04-April-2022]()
+- ### 04-April-2022
    * [Bandwidth and related terms](https://www.verizon.com/info/definitions/bandwidth/#:~:text=The%20maximum%20amount%20of%20data,Modal)
 
+- ### 05-April-2022
+   * [Forward vs Preface](#frward-s-face)
+   * 
 ---
 ## 🧠 What Did I Learn Today? ✨
 
@@ -62,3 +65,5 @@ nslookup myip.opendns.com resolver1.opendns.com
 
 ---
 
+### Forward vs Preface
+[link]((http://www.differencebetween.net/language/difference-between-foreword-and-preface/))
