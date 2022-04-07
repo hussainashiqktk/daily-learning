@@ -47,6 +47,10 @@ I'm a Software Engineer by trainnig, interested specifically in Cybersecurity. I
 - ### 07-April-2022
    * [Use The Command Prompt To Open And Display Folder Contents In Windows Explorer](https://www.watchingthenet.com/open-display-folders-in-windows-explorer-from-the-command-prompt.html#:~:text=To%20do%20this%2C%20open%20a,(with%20out%20the%20quotes).)
    * [20 Computer Tricks You Should Know](https://www.intivix.com/20-computer-tricks-know/)
+   * [How To Use GitHub with VS Code in 2020 | Commit & Push | Part 1
+](https://www.youtube.com/watch?v=3Tn58KQvWtU)
+
+- ### 08-April-2022
 
 ## 🧠 What Did I Learn Today? ✨
 
