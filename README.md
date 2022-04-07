@@ -51,6 +51,7 @@ I'm a Software Engineer by trainnig, interested specifically in Cybersecurity. I
 ](https://www.youtube.com/watch?v=3Tn58KQvWtU)
 
 - ### 08-April-2022
+- ### 09-April-2022
 
 ## 🧠 What Did I Learn Today? ✨
 
