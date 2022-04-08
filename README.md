@@ -50,6 +50,7 @@ I'm a Software Engineer by trainnig, interested specifically in Cybersecurity. I
    * [10 Browser Extensions for Security Researchers](https://www.makeuseof.com/browser-extensions-security-researchers/)
 
 - ### 08-April-2022
+   * [What is /dev/null and How to Use It](https://linuxhint.com/what_is_dev_null/)
 - ### 09-April-2022
 
 ## 🧠 What Did I Learn Today? ✨
