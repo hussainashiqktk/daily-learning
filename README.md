@@ -52,6 +52,8 @@ I'm a Software Engineer by trainnig, interested specifically in Cybersecurity. I
 - ### 08-April-2022
    * [What is /dev/null and How to Use It](https://linuxhint.com/what_is_dev_null/)
 - ### 09-April-2022
+- ### 14-April-2022
+   * [Linux Change Hostname (computer name)](https://www.cyberciti.biz/faq/ubuntu-change-hostname-command/)
 
 ## 🧠 What Did I Learn Today? ✨
 
