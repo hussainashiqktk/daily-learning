@@ -54,6 +54,8 @@ I'm a Software Engineer by trainnig, interested specifically in Cybersecurity. I
 - ### 09-April-2022
 - ### 14-April-2022
    * [Linux Change Hostname (computer name)](https://www.cyberciti.biz/faq/ubuntu-change-hostname-command/)
+   * [SVG - Scalable Vector Graphics](https://en.wikipedia.org/wiki/Scalable_Vector_Graphics)
+   
 
 ## 🧠 What Did I Learn Today? ✨
 
