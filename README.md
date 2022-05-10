@@ -57,7 +57,9 @@ I'm a Software Engineer by trainnig, interested specifically in Cybersecurity. I
    * [SVG - Scalable Vector Graphics](https://en.wikipedia.org/wiki/Scalable_Vector_Graphics)
 - ### 15-April-2022
    * [Electronic document and records management system (EDRMS)](https://en.wikipedia.org/wiki/Electronic_document_and_records_management_system)
-   
+
+- ### 10-May-2022
+   * [IPv4 Subnetting Practice for the CCNA](https://www.youtube.com/watch?v=HuLcsCH4V-c)   
 
 ## 🧠 What Did I Learn Today? ✨
 
