@@ -59,7 +59,10 @@ I'm a Software Engineer by trainnig, interested specifically in Cybersecurity. I
    * [Electronic document and records management system (EDRMS)](https://en.wikipedia.org/wiki/Electronic_document_and_records_management_system)
 
 - ### 10-May-2022
-   * [IPv4 Subnetting Practice for the CCNA](https://www.youtube.com/watch?v=HuLcsCH4V-c)   
+   * [IPv4 Subnetting Practice for the CCNA](https://www.youtube.com/watch?v=HuLcsCH4V-c)
+
+- ### 21-May-2022
+   * [Can You Use Wi-Fi and Ethernet at the Same Time?](https://sortatechy.com/wi-fi-and-ethernet-at-the-same-time/#:~:text=Wi%2DFi%20and%20ethernet%20can,max%20speed%20of%20the%20router.)
 
 ## 🧠 What Did I Learn Today? ✨
 
