@@ -63,6 +63,9 @@ I'm a Software Engineer by trainnig, interested specifically in Cybersecurity. I
 
 - ### 21-May-2022
    * [Can You Use Wi-Fi and Ethernet at the Same Time?](https://sortatechy.com/wi-fi-and-ethernet-at-the-same-time/#:~:text=Wi%2DFi%20and%20ethernet%20can,max%20speed%20of%20the%20router.)
+ 
+- ### 25-May-2022
+   * [Snap-confine has elevated permissions and is not confined but should be. Refusing to continue to avoid permission escalation attacks](https://stackoverflow.com/questions/70053614/snap-confine-has-elevated-permissions-and-is-not-confined-but-should-be-refusin)
 
 ## 🧠 What Did I Learn Today? ✨
 
