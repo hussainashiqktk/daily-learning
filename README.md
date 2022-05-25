@@ -66,6 +66,7 @@ I'm a Software Engineer by trainnig, interested specifically in Cybersecurity. I
  
 - ### 25-May-2022
    * [Snap-confine has elevated permissions and is not confined but should be. Refusing to continue to avoid permission escalation attacks](https://stackoverflow.com/questions/70053614/snap-confine-has-elevated-permissions-and-is-not-confined-but-should-be-refusin)
+   * [Local Tunner, similar to Ngrok](https://localtunnel.github.io/www/)
 
 ## 🧠 What Did I Learn Today? ✨
 
