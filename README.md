@@ -68,6 +68,9 @@ I'm a Software Engineer by trainnig, interested specifically in Cybersecurity. I
    * [Snap-confine has elevated permissions and is not confined but should be. Refusing to continue to avoid permission escalation attacks](https://stackoverflow.com/questions/70053614/snap-confine-has-elevated-permissions-and-is-not-confined-but-should-be-refusin)
    * [Local Tunner, similar to Ngrok](https://localtunnel.github.io/www/)
 
+- ### 28-May-2022
+* [How to Read a Traceroute](https://www.inmotionhosting.com/support/server/ssh/read-traceroute/)
+
 ## 🧠 What Did I Learn Today? ✨
 
 ### How to find your public IP address using command line?
