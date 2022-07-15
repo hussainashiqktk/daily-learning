@@ -74,6 +74,9 @@ I'm a Software Engineer by trainnig, interested specifically in Cybersecurity. I
 - ### 09-June-2022
 * [How to set up and manage an FTP server on Windows 10](https://www.windowscentral.com/how-set-and-manage-ftp-server-windows-10)
 
+- ### 15-July-2022
+* [Sysinternals](https://docs.microsoft.com/en-us/sysinternals/)
+
 ## 🧠 What Did I Learn Today? ✨
 
 ### How to find your public IP address using command line?
