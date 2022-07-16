@@ -79,6 +79,7 @@ I'm a Software Engineer by trainnig, interested specifically in Cybersecurity. I
 
 - ### 16-July-2022
 * [What Is NXDOMAIN?](https://www.dnsknowledge.com/whatis/nxdomain-non-existent-domain-2/)
+* [How to Reset Forgotten WSL Password](https://linuxhint.com/reset-forgotten-wsl-password/)
 
 ## 🧠 What Did I Learn Today? ✨
 
