@@ -77,6 +77,9 @@ I'm a Software Engineer by trainnig, interested specifically in Cybersecurity. I
 - ### 15-July-2022
 * [Sysinternals](https://docs.microsoft.com/en-us/sysinternals/)
 
+- ### 16-July-2022
+* [What Is NXDOMAIN?](https://www.dnsknowledge.com/whatis/nxdomain-non-existent-domain-2/)
+
 ## 🧠 What Did I Learn Today? ✨
 
 ### How to find your public IP address using command line?
