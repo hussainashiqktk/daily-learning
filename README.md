@@ -81,6 +81,9 @@ I'm a Software Engineer by trainnig, interested specifically in Cybersecurity. I
 * [What Is NXDOMAIN?](https://www.dnsknowledge.com/whatis/nxdomain-non-existent-domain-2/)
 * [How to Reset Forgotten WSL Password](https://linuxhint.com/reset-forgotten-wsl-password/)
 
+- ### 10-Oct-2022
+* [Solved - Cannot resume a suspended virtual machine.](https://kb.vmware.com/s/article/1006111)
+
 ## 🧠 What Did I Learn Today? ✨
 
 ### How to find your public IP address using command line?
