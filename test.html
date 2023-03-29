@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>View Firefox Passwords on Windows</title>
+    <style>
+      body {
+        font-family: Arial, sans-serif;
+        line-height: 1.6;
+      }
+      
+      h1 {
+        font-size: 2em;
+        font-weight: bold;
+        margin-bottom: 1.2em;
+      }
+      
+      h2 {
+        font-size: 1.5em;
+        font-weight: bold;
+        margin-bottom: 1em;
+      }
+      
+      ol {
+        margin-left: 2em;
+        margin-bottom: 1.5em;
+      }
+      
+      li {
+        margin-bottom: 0.5em;
+      }
+      
+      code {
+        font-family: Consolas, monospace;
+        background-color: #f4f4f4;
+        padding: 0.2em 0.4em;
+        border-radius: 3px;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>View Firefox Passwords on Windows</h1>
+    <ol>
+      <li>Close Firefox browser.</li>
+      <li>Locate the Firefox profile folder on your system. The path to the profile folder may vary depending on the version of Windows and the version of Firefox. Here's how to find it:
+        <ol>
+          <li>Open Firefox and type "<code>about:profiles</code>" in the address bar.</li>
+          <li>Look for the "Root Directory" entry under the "Profile Folder" section.</li>
+          <li>Note the path listed next to the "Root Directory" entry. This is the location of the Firefox profile folder.</li>
+        </ol>
+      </li>
+      <li>Navigate to the Firefox profile folder using Windows File Explorer.</li>
+      <li>In the profile folder, you should see two files named "<code>key4.db</code>" and "<code>logins.json</code>". These files store the encrypted passwords and login information.</li>
+      <li>To decrypt the password files, you can use a third-party software tool called "Firefox Password Recovery Tool" or any other similar tool. Here's how to use it:
+        <ol>
+          <li>Download and install the Firefox Password Recovery Tool.</li>
+          <li>Open the Firefox Password Recovery Tool and select "Open File" from the "File" menu. Browse to the location of the "<code>key4.db</code>" file and select it.</li>
+          <li>The Firefox Password Recovery Tool will decrypt the "<code>key4.db</code>" file and display the stored passwords.</li>
+          <li>To decrypt the "<code>logins.json</code>" file, select "Open File" from the "File" menu again and browse to the location of the "<code>logins.json</code>" file. The tool will display the decrypted login information.</li>
+        </ol>
+      </li>
+      <li>Once you have decrypted the password files, you can view your saved passwords in clear text.</li>
+    </ol>
+    <p>Note: It is important to keep in mind that storing passwords in plain text is not secure and is not recommended. Please use a password manager that stores your passwords securely and in an encrypted format.</p>
+  </body>
+</html>
