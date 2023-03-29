@@ -112,3 +112,35 @@ nslookup myip.opendns.com resolver1.opendns.com
 ![Forward vs Preface](/assets/imgs/Foreword-vs-Preface.jpg)
 
 ---
+
+![image](https://user-images.githubusercontent.com/74835399/228659781-2e04679e-3b1b-4c03-b32c-6f7e66703a52.png)
+
+Here are the steps to view your own passwords stored in Firefox on Windows using the key4.db and logins.json files:
+
+Close Firefox browser.
+
+Locate the Firefox profile folder on your system. The path to the profile folder may vary depending on the version of Windows and the version of Firefox. Here's how to find it:
+
+a. Open Firefox and type "about:profiles" in the address bar.
+
+b. Look for the "Root Directory" entry under the "Profile Folder" section.
+
+c. Note the path listed next to the "Root Directory" entry. This is the location of the Firefox profile folder.
+
+Navigate to the Firefox profile folder using Windows File Explorer.
+
+In the profile folder, you should see two files named "key4.db" and "logins.json". These files store the encrypted passwords and login information.
+
+To decrypt the password files, you can use a third-party software tool called "Firefox Password Recovery Tool" or any other similar tool. Here's how to use it:
+
+a. Download and install the Firefox Password Recovery Tool.
+
+b. Open the Firefox Password Recovery Tool and select "Open File" from the "File" menu. Browse to the location of the key4.db file and select it.
+
+c. The Firefox Password Recovery Tool will decrypt the key4.db file and display the stored passwords.
+
+d. To decrypt the logins.json file, select "Open File" from the "File" menu again and browse to the location of the logins.json file. The tool will display the decrypted login information.
+
+Once you have decrypted the password files, you can view your saved passwords in clear text.
+
+Note: It is important to keep in mind that storing passwords in plain text is not secure and is not recommended. Please use a password manager that stores your passwords securely and in an encrypted format.
