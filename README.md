@@ -144,3 +144,8 @@ d. To decrypt the logins.json file, select "Open File" from the "File" menu agai
 Once you have decrypted the password files, you can view your saved passwords in clear text.
 
 Note: It is important to keep in mind that storing passwords in plain text is not secure and is not recommended. Please use a password manager that stores your passwords securely and in an encrypted format.
+
+
+------
+
+Throughput Booster enhances the wireless transmission throughput by enabling packet bursting. The default setting is Disabled. When activated, your wireless network card does not allow for other clients to have equal access to the available wireless bandwidth. Therefore, you get more bandwidth while others get less.
