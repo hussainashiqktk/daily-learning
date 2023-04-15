@@ -3,8 +3,7 @@
 
 
 This is a repository functioning as a blog, where I document and consolidate any new knowledge I acquire on a daily basis. It serves as a digital platform for me to answer the questions that arise in my curious mind. The repository is essentially a record of my ongoing learning journey. What new insights did I gain today?
-
-- [Daily Learning](#daily-learning)
+## 📑 Table of Contents 📋
   - [🚀 About Me 🚀](#-about-me-)
   - [👨‍👩‍👧‍👦 Contributing 👨‍👩‍👧‍👦](#-contributing-)
   - [📑 Table of Contents 📋](#-table-of-contents-)
@@ -31,7 +30,7 @@ I'm a Software Engineer by trainnig, interested specifically in Cybersecurity. I
 ###### Feel free to give any suggestions by creating issue on issue tab.
 
 
-## 📑 Table of Contents 📋
+
 
 - ### 31-March-2022
     * [Finding your public IP using commad line?](#how-to-find-your-public-ip-address-using-command-line?)
@@ -96,7 +95,9 @@ I'm a Software Engineer by trainnig, interested specifically in Cybersecurity. I
 - ### 11-Nov-2022
 * [How DHCP works?](https://www.youtube.com/watch?v=0UvLRVlPx6A)
 
-## 🧠 What Did I Learn Today? ✨
+----
+----
+
 
 ### How to find your public IP address using command line?
 
