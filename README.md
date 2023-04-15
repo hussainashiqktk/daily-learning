@@ -1,8 +1,17 @@
 
 # Daily Learning
 
-This is a blog-type repo, logging any piece of knowledge that I learn everyday. It hosts answers to the questions that I my wandering mind poses.
-What did you learn today ?
+
+This is a repository functioning as a blog, where I document and consolidate any new knowledge I acquire on a daily basis. It serves as a digital platform for me to answer the questions that arise in my curious mind. The repository is essentially a record of my ongoing learning journey. What new insights did I gain today?
+
+- [Daily Learning](#daily-learning)
+  - [🚀 About Me 🚀](#-about-me-)
+  - [👨‍👩‍👧‍👦 Contributing 👨‍👩‍👧‍👦](#-contributing-)
+  - [📑 Table of Contents 📋](#-table-of-contents-)
+  - [🧠 What Did I Learn Today? ✨](#-what-did-i-learn-today-)
+    - [How to find your public IP address using command line?](#how-to-find-your-public-ip-address-using-command-line)
+    - [Forward vs Preface](#forward-vs-preface)
+
 
 
 ## 🚀 About Me 🚀
